@@ -1,0 +1,7 @@
+456-789-123, War and Peace, Leo Tolstoy, 1869, b
+345-678-912, Moby Dick, Mauro Icardi, 1851, b
+234-567-891, The Great Gatsby, F. Scott Fitzgerald, 1925, a
+123-456-789, Ulysses, Omer Faruk Olkay, 1904, b
+567-891-234, Lolita, Vladimir Nabakov, 1995, a
+678-912-345, Pride and Prejudice, Jane Austen, 1813, a
+789-123-456, Deneme Updte, Leo Tolstoy, 2023, a

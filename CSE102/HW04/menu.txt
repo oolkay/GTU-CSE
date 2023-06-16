@@ -1,0 +1,13 @@
+Product     Price(TL)
+Kebap       75.99
+Pilav       20.25
+Lahmacun    21.50
+Pide        40.00
+Döner       55.60
+Hamburger   70.50
+Kola        15.00
+Ayran       10.00
+Su          5.00
+Künefe      60.00
+Sütlac      32.50
+Baklava     50.50

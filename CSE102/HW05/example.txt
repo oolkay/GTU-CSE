@@ -1,0 +1,4 @@
+Hello teacher, my name is Omer Olkay.
+I hope you are doing very well.
+The program checks the letter frequency.
+Have a nice day.
